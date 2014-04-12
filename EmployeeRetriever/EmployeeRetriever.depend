@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1396366490 source:/home/arad/Dropbox/Frami/C++ programming/Cplusplus-SeAMK/EmployeeRetriever/main.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<stdio.h>
+	<unistd.h>
+	<string.h>
+
+1397046631 source:/home/arad/Dropbox/Frami/C++_programming/Cplusplus-SeAMK/EmployeeRetriever/main.cpp
+	<iostream>
+	<fstream>
+	<string>
+
