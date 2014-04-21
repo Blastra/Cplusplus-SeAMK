@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1397926806 source:/home/arad/Dropbox/Frami/C++ programming/Cplusplus-SeAMK/DistancesTravelled/main.cpp
+	<iostream>
+	<math.h>
+	<string>
+	<sstream>
+	<fstream>
+

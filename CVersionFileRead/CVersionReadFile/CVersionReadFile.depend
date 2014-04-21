@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1398077426 source:/home/arad/Dropbox/Frami/C++_programming/Cplusplus-SeAMK/CVersionFileRead/CVersionReadFile/main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
